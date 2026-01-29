@@ -1,7 +1,7 @@
 /*	
 	Lab 1 - ASCII Art and Standard IO
 
- 	By: FIXME - Roger Blake
+ 	By: - Roger Blake
  	CSCI 111
  	Date: 1/29/26
 

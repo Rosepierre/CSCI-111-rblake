@@ -1,7 +1,7 @@
 CXX      = g++
 CXXFLAGS = -g -Wall -std=c++17
 
-PROGRAM  = bob
+PROGRAM  = hangman-ascii
 CPPFILES = main.cpp
 
 all: $(PROGRAM)

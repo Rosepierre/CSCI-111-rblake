@@ -12,6 +12,18 @@
 | **Repository**          | https://github.com/Rosepierre/CSCI-111-rblake |
 
 
+## Labs 
+
+| Name | Value |
+| :--- | :--- |
+| Name | Lab 1 |
+| Description | Ascii art and storing/using user input|
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab1/ascii.cpp |
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
 ## Assignments
 
 ### Assignment #

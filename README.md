@@ -25,3 +25,16 @@
 | Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/hellocs/helloworld.cpp |
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
+
+### Assignment 2#
+
+| Name | Value |
+| :--- | :--- |
+| Name | Homework 1 |
+| Description | stdio and Echo |
+| Due Date | 2-feb-26 |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Assignments/hangman|
+ |https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Assignments/echo|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |

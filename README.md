@@ -50,3 +50,16 @@
  |https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Assignments/echo|
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
+
+### Assignment #3
+
+| Name | Value |
+| :--- | :--- |
+| Name | Homework 2 |
+| Description | Unittest and Faktor |
+| Due Date | 16-feb-26 |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Assignments/calculator
+https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/Faktor/faktor.cpp |
+| Self Grade | 100 |
+| Notes | For the calculator I added if statments for dividing by 0 as well as taking the squareroot of a negative number. |

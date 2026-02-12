@@ -14,6 +14,8 @@
 
 ## Labs 
 
+Lab #1
+
 | Name | Value |
 | :--- | :--- |
 | Name | Lab 1 |
@@ -23,6 +25,19 @@
 | Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab1/ascii.cpp |
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
+
+Lab #2
+
+| Name | Value |
+| :--- | :--- |
+| Name | Lab 2 |
+| Description | Circle lab|
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Labs/Lab2 |
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
 
 ## Assignments
 

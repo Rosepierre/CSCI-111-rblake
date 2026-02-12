@@ -31,10 +31,11 @@ Lab #2
 | Name | Value |
 | :--- | :--- |
 | Name | Lab 2 |
-| Description | Circle lab|
+| Description | Circle lab and addtwonumbers kattis|
 | Due Date | - |
 | Status | Complete |
-| Location | https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Labs/Lab2 |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Labs/Lab2
+https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Labs/Kattis%20Labs/AddtwoNumbers |
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 

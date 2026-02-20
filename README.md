@@ -39,14 +39,27 @@ https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Labs/Kattis%20Labs/Addtw
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
-
-## Assignments
-
-### Assignment #
+Lab #3
 
 | Name | Value |
 | :--- | :--- |
-| Name | Homework 0 |
+| Name | Lab 3 |
+| Description | Library and lastproblem |
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Labs/Lab3
+ https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Labs/Kattis%20Labs/Lastproblem|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
+
+## Assignments
+
+### Assignment 1 #
+
+| Name | Value |
+| :--- | :--- |
+| Name | Homework 1 |
 | Description | Hello world program |
 | Due Date | 23-jan-26 |
 | Status | Complete |
@@ -58,7 +71,7 @@ https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Labs/Kattis%20Labs/Addtw
 
 | Name | Value |
 | :--- | :--- |
-| Name | Homework 1 |
+| Name | Homework 2 |
 | Description | stdio and Echo |
 | Due Date | 2-feb-26 |
 | Status | Complete |
@@ -71,7 +84,7 @@ https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Labs/Kattis%20Labs/Addtw
 
 | Name | Value |
 | :--- | :--- |
-| Name | Homework 2 |
+| Name | Homework 3 |
 | Description | Unittest and Faktor |
 | Due Date | 16-feb-26 |
 | Status | Complete |

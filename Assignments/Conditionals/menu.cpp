@@ -6,6 +6,7 @@ Will return the highest and lowest number of 5 inputs as well as if a number is 
 */
 #include <iostream>
 #include <string>
+#include <cassert>
 
 double maxfinder(double num1, double num2, double num3, double num4, double num5){
 double maxnumber = num1;
@@ -42,21 +43,38 @@ double minfinder(double num1, double num2, double num3, double num4, double num5
     return minnumber;
 }
 
-void oddevenfinder(double num1, double num2, double num3, double num4, double num5){
+int oddevenfinder(double num1, double num2, double num3, double num4, double num5){
     std::string odd = "The sum of the numbers is odd";
     std::string even = "The sum of the numbers is even";
     int sum = num1 + num2 + num3 + num4 + num5;
 
         if (sum % 2 == 0){
-            std::cout << even << std::endl; 
+            std::cout << even << std::endl;
+            return 1; 
         }
         else {
-            std::cout << odd << std::endl; 
+            std::cout << odd << std::endl;
+            return 0; 
         } 
+}
+
+void test(){
+    assert(maxfinder(2, 7, 8, 3, 5) == 8);
+    assert(maxfinder(54, 67, 4, 1000, 46) == 1000);
+    assert(maxfinder(1000000, 12345, 45, 73, 21) == 1000000);
+    assert(minfinder(2, 7, 8, 3, 5) == 2);
+    assert(minfinder(54, 67, 4, 1000, 46) == 4);
+    assert(minfinder(1000000, 12345, 45, 73, 21) == 21);
+    assert(oddevenfinder(1, 2, 3, 4, 5) == 0);
+    assert(oddevenfinder(2, 4, 6, 8, 10) == 1);
+    assert(oddevenfinder(2, 4, 7, 9, 11) == 0);
+    std::cout << "All tests passed" << std::endl;
 }
 
 int main(){
    double num1, num2, num3, num4, num5;
+
+   test();
 
    std::cout << "Please enter 5 numbers to find which is the largest and smallest. "<< std::endl;
    std::cin >> num1 >> num2 >> num3 >> num4 >> num5;

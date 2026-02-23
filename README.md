@@ -92,3 +92,15 @@ Lab #3
 https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/Faktor/faktor.cpp |
 | Self Grade | 100 |
 | Notes | For the calculator I added if statments for dividing by 0 as well as taking the squareroot of a negative number. |
+
+### Assignment #4
+
+| Name | Value |
+| :--- | :--- |
+| Name | Homework 4 |
+| Description | Conditionals |
+| Due Date | 16-feb-23 |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/Conditionals/Screenshot_23-2-2026_102013_psychic-goldfish-9745xpr9vp6wcgwr.github.dev.jpeg |
+| Self Grade | 100 |
+| Notes |  |

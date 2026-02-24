@@ -52,6 +52,18 @@ Lab #3
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
+Lab #4
+
+| Name | Value |
+| :--- | :--- |
+| Name | Lab 4 |
+| Description | Point |
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab4/Screenshot%202026-02-23%20181833.png 
+  https://github.com/Rosepierre/CSCI-111-rblake/tree/main/Labs/Kattis%20Labs/Triangle/main|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
 
 ## Assignments
 

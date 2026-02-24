@@ -1,7 +1,7 @@
 CXX      = g++
 CXXFLAGS = -g -Wall -std=c++17
 
-PROGRAM  = MaxandMin
+PROGRAM  = Distance
 CPPFILES = point.cpp
 
 all: $(PROGRAM)

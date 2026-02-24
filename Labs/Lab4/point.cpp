@@ -1,8 +1,8 @@
 /*
 Functions Lab
-Updated By: FIXME1
+Updated By: Roger Blake
 CSCI 111
-Date: FIXME2
+Date: 2/23/2026
 
 Program prompts the user to enter two points in the form (x1, y1) and (x2, y2) and finds the distance between the two points using a function.
 Algorithm steps:
@@ -39,7 +39,7 @@ void unitTest();
 void clearScreen() {
     // use "cls" in windows and "clear" command in Mac and Linux
     #ifdef _WIN32
-        system("clS");
+        system("cls");
     #else
         system("clear");
     #endif
@@ -49,10 +49,11 @@ int main()
 {
     int x1, y1, x2, y2; // variables to store two points (x1, y1) and (x2, y2)
     char ch;
-
+    char again;
+    
     //FIXME-bonus - 10 bonus points - add loop until user wants to quit
     // the loop will execute the following block of code
-    {
+    do {
         clearScreen();
         cout << "Program calculates distance between 2 points on a 2D coordinate." << endl;
         cout << "Enter a point in the form (x, y): ";
@@ -61,12 +62,22 @@ int main()
         printf("(x1, y1) = (%d, %d)\n", x1, y1);
 
         cout << "Enter a second point in the form (x, y): ";
-        //FIXME3 - Read/parse the second point and store data into variables x2 and y2
-        //FIXME4 - Call unitTest function
+        cin >> ch >> x2 >> ch >> y2 >> ch;
+        //FIXED - Read/parse the second point and store data into variables x2 and y2
 
-        //FIXME5 - call findDistance function passing proper arguments
-        //FIXME6 – Using printf function display the returned distance with proper description
-    }
+        //FIXED - Call unitTest function
+        unitTest();
+
+        //FIXED - call findDistance function passing proper arguments
+        double distance = findDistance(x1, y1, x2, y2);
+
+        //FIXED – Using printf function display the returned distance with proper description
+        printf("Distance between the points is: %.2f\n", distance);
+
+        cout << "\nWould you like to try again? (y/n): ";
+        cin >> again;
+
+    } while (again == 'y' || again == 'Y');
 
     cin.ignore(1000, '\n');
     cout << "Enter to quit the program: ";
@@ -77,10 +88,11 @@ int main()
 
 double findDistance(int x1, int y1, int x2, int y2)
 {
-    // FIXME7 - Find the distance between (x1, y1) and (x2, y2)
+    // FIXED - Find the distance between (x1, y1) and (x2, y2)
     // following the algorithm in step 1
     // return the calculated distance
-    return 0.000000;
+
+    return sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
 }
 
 // test function that test findDistance function with 3 test cases
@@ -89,6 +101,15 @@ void unitTest()
     float result =  findDistance(4, 3, 5, 1);
     float expected = 2.236067f;
     assert( fabs(result - expected) <= epsilon); //accept the result if it's less than the error of margin
-    // FIXME8 - add at least two more test cases
+
+    // FIXED - add at least two more test cases
+    float result2 = findDistance(0, 0, 3, 4);
+    float expected2 = 5.0f;
+    assert(fabs(result2 - expected2) <= epsilon);
+
+    float result3 = findDistance(-1, -1, 2, 3);
+    float expected3 = 5.0f;
+    assert(fabs(result3 - expected3) <= epsilon);
+
     cerr << "all test cases passed..." << endl;
 }

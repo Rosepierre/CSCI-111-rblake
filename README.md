@@ -65,6 +65,19 @@ Lab #4
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
+Lab #5
+
+| Name | Value |
+| :--- | :--- |
+| Name | Lab 5 |
+| Description | Conditions lab and two stones kattis. |
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab5/main/Screenshot_26-2-2026_13148_psychic-goldfish-9745xpr9vp6wcgwr.github.dev.jpeg
+https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Kattis%20Labs/Twostones/Screenshot_26-2-2026_131044_open.kattis.com.jpeg|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
 ## Assignments
 
 ### Assignment 1 #

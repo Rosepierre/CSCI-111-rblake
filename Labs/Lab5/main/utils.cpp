@@ -88,6 +88,7 @@ double find_quotient(const double &n1, const double &n2)
 // functions to run automated testing for various user-defined functions
 void test()
 {
+    double avg;
     double answer = find_sum(10, 12.5);
     double expected = 22.5;
     assert(answer == expected);        // test case 1
@@ -95,6 +96,31 @@ void test()
 
     // FIXME7 – Using assert function write at least 2 test cases for each of the following functions
     // find_difference(), find_product(), find_larger(),
+    double answer2 = find_difference(5, 2.0);
+    double expected2 = 3.0;
+    assert(answer2 == expected2);
+    assert(find_difference(-5, -5) == -10.0);
+
+    double answer3 = find_product(5, 2.0);
+    double expected3 = 10.0;
+    assert(answer3 == expected3);
+    assert(find_product(-10.0, 10.0) == -100.0);
+
+    assert(find_larger(5.12343435, 5.24536445646465) == 5.24536445646465);
+    assert(find_larger(1, 2) == 2.0);
+
+    assert(find_smaller(5.12343435, 5.24536445646465) == 5.12343435);
+    assert(find_smaller(1234567, 7654321) == 1234567);
+
+    assert(find_quotient(4, 2) == 2);
+    assert(find_quotient(10, 5) == 2);
+    
+    find_average(5, 9, avg);
+    assert(avg == 7);
+
+    find_average(10, 10, avg);
+    assert(avg == 10);
+    
     // find_smaller(), find_quotient(), find_average()
     cerr << "all test cases passed..." << endl;
 }

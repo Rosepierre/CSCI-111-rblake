@@ -124,8 +124,20 @@ https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/Faktor/fakto
 | :--- | :--- |
 | Name | Homework 4 |
 | Description | Conditionals |
-| Due Date | 16-feb-23 |
+| Due Date | 23-feb-26 |
 | Status | Complete |
 | Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/Conditionals/Screenshot_23-2-2026_102013_psychic-goldfish-9745xpr9vp6wcgwr.github.dev.jpeg |
+| Self Grade | 100 |
+| Notes |  |
+
+### Assignment #5
+
+| Name | Value |
+| :--- | :--- |
+| Name | Homework 5 |
+| Description | Loops |
+| Due Date | 26-feb-26 |
+| Status | Complete |
+| Location | |
 | Self Grade | 100 |
 | Notes |  |

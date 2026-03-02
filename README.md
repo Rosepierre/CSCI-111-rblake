@@ -138,6 +138,6 @@ https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/Faktor/fakto
 | Description | Loops |
 | Due Date | 26-feb-26 |
 | Status | Complete |
-| Location | |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/Loops/Screenshot_2-3-2026_10427_psychic-goldfish-9745xpr9vp6wcgwr.github.dev.jpeg|
 | Self Grade | 100 |
 | Notes |  |

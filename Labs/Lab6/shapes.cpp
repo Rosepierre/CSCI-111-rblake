@@ -80,6 +80,21 @@ Square of height 5, e.g., would look like the following.
 
 // function clears the screen system call
 // NOTE: system call is not a security best pracice!
+std::stringstream get_square(int height)
+{
+    std::stringstream ss;
+
+    for (int row = 1; row <= height; row++)
+    {
+        for (int col = 1; col <= height; col++)
+        {
+            ss << "* ";
+        }
+        ss << endl;
+    }
+
+    return ss;
+}
 void clear_screen()
 {
 // use "cls" in windows and "clear" command in Mac and Linux

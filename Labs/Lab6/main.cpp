@@ -1,8 +1,8 @@
 /*
     Loops Lab
-    Updated By: [Your Name Here]
+    Updated By: [Roger Blake]
     CSCI 111
-    Date: [Today's Date Here]
+    Date: [3/6/26]
 
     Program prints geometric shapes of given height with * using loops
 */
@@ -17,30 +17,29 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-    // FIXME3 add a loop to make the program to continue to run until the user wants to quit
-    // FIXME4 call clear_screen function to clear the screen for each round of the loop
-    int height;
-    cout << "Program prints geometric shapes of given height with *\n";
-    cout << "Please enter the height of the shape: ";
-    cin >> height;
-    // create traiangle by calling proper function passing user entered height
-    stringstream triangle = get_triangle(height);
-    // print the triangle
-    print_shape(triangle.str());
+    char again = 'y';
 
-    // FIXME5
-    // create a flipped triangle by calling proper function passing user entered height and print it
-    // Manually test the function
+    while (again == 'y' || again == 'Y')
+    {
+        int height;
 
-    // FIXME6
-    // Create a square passing a proper argument and print it
-    // Manually test the function
+        cout << "Enter the height: ";
+        cin >> height;
 
-    // FIXME7
-    // prompt user to enter y/Y to continue anything else to quit
+        // call function from shapes.cpp
+        string triangle = get_triangle(height).str();
+        print_shape(triangle);
 
-    // FIXME8
-    // Use conditional statements to break the loop or continue the loop
+        string upsidedowntri = get_flipped_triangle(height).str();
+        print_shape(upsidedowntri);
 
+        string square = get_square(height).str();
+        print_shape(square);
+
+        cout << "Run again? (y/n): ";
+        cin >> again;
+    }
+
+    cout << "Goodbye!" << endl;
     return 0;
 }

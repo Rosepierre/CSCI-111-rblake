@@ -78,6 +78,19 @@ https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Kattis%20Labs/Twost
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
+Lab #6
+
+| Name | Value |
+| :--- | :--- |
+| Name | Lab 6 |
+| Description | Shapes and Dog and gopher|
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab6/Screenshot_10-3-2026_12398_psychic-goldfish-9745xpr9vp6wcgwr.github.dev.jpeg https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Kattis%20Labs/DogGopher/Screenshot_10-3-2026_13225_open.kattis.com.jpeg|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
+
 ## Assignments
 
 ### Assignment 1 #

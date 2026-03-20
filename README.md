@@ -90,6 +90,18 @@ Lab #6
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
+Lab #7 ***IN PROGRESS***
+
+| Name | Value |
+| :--- | :--- |
+| Name | Lab 7 |
+| Description | Pointers and Namespace|
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab7/Pointers/Screenshot%202026-03-20%20033411.png|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
 
 ## Assignments
 

@@ -90,12 +90,12 @@ Lab #6
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
-Lab #7 ***IN PROGRESS***
+Lab #7 ***Time loop missing due to me not being able to get it from the repo for whatever reason***
 
 | Name | Value |
 | :--- | :--- |
 | Name | Lab 7 |
-| Description | Pointers and Namespace|
+| Description | Pointers and timeloop|
 | Due Date | - |
 | Status | Complete |
 | Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab7/Pointers/Screenshot%202026-03-20%20033411.png|
@@ -103,6 +103,18 @@ Lab #7 ***IN PROGRESS***
 | Notes | Works perfectly fine. |
 
 
+Lab #8
+
+| Name | Value |
+| :--- | :--- |
+| Name | Lab 8 |
+| Description | Strings - Hissing and Simon says|
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/hissingmicrophone/Screenshot%202026-04-01%20192142.png
+https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Simon%20Says/Screenshot%202026-04-01%20201757.png|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
 ## Assignments
 
 ### Assignment 1 #

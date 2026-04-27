@@ -1,7 +1,8 @@
 /*
-FIXME: add program and programmer information, date, etc.
+FIXED: Roger Blake to solve kattis problem arrays
 
 The lab demostrates the use of array and some operations on array.
+
 */
 
 #include <iostream>

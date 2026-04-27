@@ -116,6 +116,19 @@ https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Simon%20Says/Screen
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
+Lab #9
+
+| Name | Value |
+| :--- | :--- |
+| Name | Lab 9 |
+| Description | Array and Modulo|
+| Due Date | - |
+| Status | Complete |
+| Location |https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab9/arrays/src/Screenshot%202026-04-27%20002846.png
+https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab9/modulo/src/Screenshot%202026-04-27%20003336.png|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
 Assignment #9
 
 | Name | Value |

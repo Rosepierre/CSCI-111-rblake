@@ -115,6 +115,18 @@ Lab #8
 https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Simon%20Says/Screenshot%202026-04-01%20201757.png|
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
+
+Assignment #9
+
+| Name | Value |
+| :--- | :--- |
+| Name | Hw9 Maps |
+| Description | Babelfish - anewalphabet|
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/maps/anewalphabet/Screenshot%202026-04-26%20233313.png https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/maps/babelfish/Screenshot%202026-04-26%20233929.png|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
 ## Assignments
 
 ### Assignment 1 #

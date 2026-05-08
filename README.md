@@ -12,6 +12,19 @@
 | **Repository**          | https://github.com/Rosepierre/CSCI-111-rblake |
 
 
+
+Final
+
+| Name | Value |
+| :--- | :--- |
+| Name | password checker |
+| Description ||
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Final/Screenshot%202026-05-07%20222733.png |
+| Self Grade | 100 |
+| Notes | so I couldn't add the files because it wanted me to download files that weren't there? So this just works with normal input. If you can direct me to it I'll fix it otherwise ill take the grade hit sorry|
+
 ## Labs 
 
 Lab #1

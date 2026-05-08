@@ -129,6 +129,18 @@ https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab9/modulo/src/Scr
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
+Assignment #7
+
+| Name | Value |
+| :--- | :--- |
+| Name | Hw7 - fallingapart - linthemup |
+| Description |-|
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/Hw-7/fallingapart/Screenshot%202026-05-07%20204736.png https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/Hw-7/linethemup/Screenshot%202026-05-07%20204456.png|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
 Assignment #9
 
 | Name | Value |

@@ -141,6 +141,18 @@ Assignment #7
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
+Assignment #8
+
+| Name | Value |
+| :--- | :--- |
+| Name | Hw8 - |
+| Description |-|
+| Due Date | - |
+| Status | Complete |
+| Location | https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Assignments/Hw-8/Screenshot%202026-05-07%20210736.png|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
 Assignment #9
 
 | Name | Value |

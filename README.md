@@ -142,6 +142,18 @@ https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab10/numbersystem/
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
+Lab #12
+
+| Name | Value |
+| :--- | :--- |
+| Name | Lab 12 |
+| Description |morse code - sevenwonders|
+| Due Date | - |
+| Status | Complete |
+| Location |https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab12/morsecodepalindromes/Screenshot%202026-05-07%20220858.png https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab12/sevenwonders/Screenshot%202026-05-07%20220231.png|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
 Assignment #7
 
 | Name | Value |

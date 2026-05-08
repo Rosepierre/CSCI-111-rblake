@@ -129,6 +129,19 @@ https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab9/modulo/src/Scr
 | Self Grade | 100 |
 | Notes | Works perfectly fine. |
 
+Lab #10
+
+| Name | Value |
+| :--- | :--- |
+| Name | Lab 10 |
+| Description | Fox and Numbers|
+| Due Date | - |
+| Status | Complete |
+| Location |https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab10/foxsays/Screenshot%202026-05-07%20214601.png
+https://github.com/Rosepierre/CSCI-111-rblake/blob/main/Labs/Lab10/numbersystem/Screenshot%202026-05-07%20214209.png|
+| Self Grade | 100 |
+| Notes | Works perfectly fine. |
+
 Assignment #7
 
 | Name | Value |
